@@ -27,7 +27,7 @@ streamlit run app.py
 
 
 🙋‍♂️ Author
-Dhruv Sangal
-📧 dhruvsangal34@gmail.com
+Vineet Sharma
+📧 vneetsharma01@gmail.com
 🌐 GitHub
 
