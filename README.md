@@ -2,8 +2,6 @@
 
 A machine learning app to predict annual insurance premiums based on user demographics, lifestyle, and medical history. Built using Python, trained on cleaned and engineered data, and deployed with Streamlit.
 
-🔗 **Live App**: [premiumpredictionapp.streamlit.app](https://premiumpredictionapp.streamlit.app/)
-
 ---
 
 ## 🚀 Features
